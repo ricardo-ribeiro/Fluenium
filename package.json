@@ -1,0 +1,16 @@
+{
+  "name": "Fluenium",
+  "version": "0.0.1",
+  "description": "Fluenium is a Fluent Selenium Implementation For easly create E2E Selenium Tests. Works Well with CucumberJs",
+  "main": "fluenium.js",
+  "scripts": {
+  },
+  "author": "Ricardo Ribeiro @ Atomic Leap",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "combine-image": "^1.0.3",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
